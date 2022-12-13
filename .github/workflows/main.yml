@@ -1,4 +1,4 @@
-name: Build API Stack
+name: Build CRON Stack
 
 on:
   - push
